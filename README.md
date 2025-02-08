@@ -1,0 +1,2 @@
+# Yieldigo
+Data analyst assignment
